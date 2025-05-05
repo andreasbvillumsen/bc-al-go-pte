@@ -4,6 +4,9 @@
       "path": "bc-al-go-pte"
     },
     {
+      "path": "bc-al-go-pte.Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
